@@ -1,5 +1,0 @@
-elasticsearch
-transformers
-pinecone
-sentence_transformer
-tf-keras
