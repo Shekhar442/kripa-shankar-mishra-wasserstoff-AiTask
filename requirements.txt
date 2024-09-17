@@ -1,0 +1,7 @@
+requests
+tokenizer
+transformers
+sentence_transformers
+faiss-cpu
+numpy
+pypr
